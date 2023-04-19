@@ -1,0 +1,8 @@
+<h1>Este es formulario con symfony 6</h1>
+{% for message in app.session.flashbag().get('message') %}
+    <strong>{{message}}</strong>
+
+{% endfor %}
+{{form_start(form)}}
+{{form_widget(form)}}
+{{form_end(form)}}

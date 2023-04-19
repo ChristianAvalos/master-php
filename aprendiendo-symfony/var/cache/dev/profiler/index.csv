@@ -1,0 +1,6 @@
+531e4a,127.0.0.1,GET,http://aprendiendo-symfony.devel/crear-animal,1674523158,a2968a,500
+a2968a,127.0.0.1,GET,http://aprendiendo-symfony.devel/crear-animal,1674523158,,500
+a06906,127.0.0.1,GET,http://aprendiendo-symfony.devel/crear-animal,1674523204,,200
+230693,127.0.0.1,POST,http://aprendiendo-symfony.devel/crear-animal,1674523227,,200
+484fcf,127.0.0.1,GET,http://aprendiendo-symfony.devel/validar-email,1674524811,584763,500
+584763,127.0.0.1,GET,http://aprendiendo-symfony.devel/validar-email,1674524811,,500
